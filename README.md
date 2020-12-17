@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmet Fatih Yavaşi</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱  I’m currently learning **JavaScript and other frontend tech.**
+- 🌱   I’m currently learning **JavaScript and other frontend tech.**
 
-- 📫  How to reach me **afatihyavasi@gmail.com**
+- 📫   How to reach me **afatihyavasi@gmail.com**
 
-- 📄  Check my resume [yavasi.com/afatih](yavasi.com/afatih)
+- 📄   Check my resume [yavasi.com/afatih](yavasi.com/afatih)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
