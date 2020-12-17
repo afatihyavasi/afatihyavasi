@@ -5,7 +5,6 @@
 
 - 📫   How to reach me **afatihyavasi@gmail.com**
 
-- 📄   <a href="http://yavasi.com/afatih">Check my resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
