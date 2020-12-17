@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet Fatih Yavaşi</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<img src="https://giphy.com/embed/LmNwrBhejkK9EFP504" />
+<img src="https://giphy.com/embed/LmNwrBhejkK9EFP504" height="50px" weight="50px"/>
 
 - 🌱   I’m currently learning **JavaScript and other frontend tech.**
 
