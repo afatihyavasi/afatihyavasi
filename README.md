@@ -25,4 +25,5 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript — Değişkenler](https://medium.com/@afatihyavasi/javascript-de%C4%9Fi%C5%9Fkenler-6a991c7a473b?source=rss-13b6a4e227b6------2)
 <!-- BLOG-POST-LIST:END -->
