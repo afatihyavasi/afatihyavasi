@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **afatihyavasi@gmail.com**
 
-- 📄 Know about my experiences [CV](yavasi.com/afatih)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
