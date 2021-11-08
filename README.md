@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ahmet Fatih Yavaşi</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently interesting **JavaScript, React other frontend tech.**
-
-- 📝 I regularly write articles on [Medium](https://afatihyavasi.medium.com/)
-
-- 📫 How to reach me **afatihyavasi@gmail.com**
+![Buraya-bakacaklar-688730](https://user-images.githubusercontent.com/22716658/140800681-7e2ba0f9-ff7c-4545-b3eb-559720ba6ae1.jpeg)
 
 
 <h3 align="left">Connect with me:</h3>
